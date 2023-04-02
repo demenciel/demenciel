@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @demenciel
-- 👀 I’m interested in learning the and applying the steps to become a top notch web developer.
-- 🌱 I’m currently learning the infamous Javascript.
+- 👋 Hi, I’m @Alexandre
+- 👨‍💻I’m curently a student at 42 Quebec.
+- 👀 I’m interested in learning the and applying the steps to become a top notch developer.
+- 🌱 I’m currently learning the OG C.
 - 📫 How to reach me : alexcouture5@hotmail.com
 - For more on my projects go to my portfolio : alexcoutureportfolio.com
 
