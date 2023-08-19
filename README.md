@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Alexandre
 - 👨‍💻I’m curently a student at 42 Quebec and also working part-time as a Freelance Full Stack Dev.
 - 👀 I’m interested in learning the in and outs of programming and applying the steps to become a top notch developer.
-- 🌱 I’m currently learning the OG C.
 - 📫 How to reach me : alexcouture5@hotmail.com
 - For more on my projects go to my portfolio : alexcoutureportfolio.com
 
