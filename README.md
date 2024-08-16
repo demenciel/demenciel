@@ -9,44 +9,29 @@ I'm Alexandre, a software engineer with a completed curriculum at 42 Québec. I 
 
 ---
 
-### 🔗 Contact
+## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=[https://www.linkedin.com](https://www.linkedin.com/in/alexandre-couture-53741a277/))](https://www.linkedin.com)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexcouture5@hotmail.com)](mailto:alexcouture5@hotmail.com)
+<div align="left" style="display:inline_block"> 
+  <a href="https://www.linkedin.com/in/alexandre-couture-53741a277/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:alexcouture5@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
----
+## *️⃣ Languages
+![langs](https://skillicons.dev/icons?i=c,cpp,php,python,typescript,html,css,javascript,java&perline=)
 
-### 🛠️ Languages & Tools
+## ☁️ Tools
+![langs](https://skillicons.dev/icons?i=git,github,docker,nginx,bash,vim,vscode,cmake,digitalocean&perline=)
 
-#### Languages
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![PHP](https://img.shields.io/badge/-Php-00ADD8?style=flat-square&logo=go)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+## Data Base
+![langs](https://skillicons.dev/icons?i=mysql&perline=)
 
-#### Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+## Operational System
+![langs](https://skillicons.dev/icons?i=linux,apple&perline=)
 
-#### Database
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 
-#### Operating Systems
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple)
+## 📈 My Stats
 
----
-
-### 📈 My Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+[![status](https://raw.githubusercontent.com/demenciel/github-stats-transparent/output/generated/overview.svg)](#)
+[![languages](https://raw.githubusercontent.com/demenciel/github-stats-transparent/output/generated/languages.svg)](#)
 
 ---
 
@@ -55,7 +40,6 @@ I'm Alexandre, a software engineer with a completed curriculum at 42 Québec. I 
 - 🌱 **Learning**: Deepening my understanding of programming and technology in both civilian and military applications.
 
 ### Connect With Me
-- 📫 **Email**: [alexcouture5@hotmail.com](mailto:alexcouture5@hotmail.com)
 - 🌐 **Portfolio**: Check out my projects and more about my professional journey at [alexcoutureportfolio.com](https://alexcoutureportfolio.com/)
 
 Let's connect and explore collaborative opportunities! Feel free to reach out if you're interested in my work or if you have any projects or ideas you’d like to discuss.
