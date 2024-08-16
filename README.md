@@ -29,9 +29,8 @@ I'm Alexandre, a software engineer with a completed curriculum at 42 Québec. I 
 
 
 ## 📈 My Stats
-
-[![status](https://raw.githubusercontent.com/demenciel/github-stats-transparent/output/generated/overview.svg)](#)
-[![languages](https://raw.githubusercontent.com/demenciel/github-stats-transparent/output/generated/languages.svg)](#)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=demenciel&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=demenciel&layout=compact&theme=dark)
 
 ---
 
