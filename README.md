@@ -13,7 +13,10 @@ I'm Alexandre, a software engineer with a completed curriculum at 42 Québec. I 
 
 <div align="left" style="display:inline_block"> 
   <a href="https://www.linkedin.com/in/alexandre-couture-53741a277/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.x.com/in/alexandre-couture-53741a277/](https://x.com/technoSaas)" target="_blank"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/twitter/follow/:user
+)" target="_blank"></a> 
   <a href = "mailto:alexcouture5@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 ## *️⃣ Languages
 ![langs](https://skillicons.dev/icons?i=c,cpp,php,python,typescript,html,css,javascript,java&perline=)
@@ -35,12 +38,10 @@ I'm Alexandre, a software engineer with a completed curriculum at 42 Québec. I 
 ---
 
 ### What I'm Up To
-- 💼 **Developing**: Working on 'Imperfect' and 'Weedlogger,' pushing the boundaries of what's possible in software development.
+- 💼 **Developing**: Working on 'Imperfect', 'Weedlogger' and 'RecetteRabais', pushing the boundaries of what's possible in software development.
 - 🌱 **Learning**: Deepening my understanding of programming and technology in both civilian and military applications.
 
 ### Connect With Me
-- 🌐 **Portfolio**: Check out my projects and more about my professional journey at [alexcoutureportfolio.com](https://alexcoutureportfolio.com/)
-
 Let's connect and explore collaborative opportunities! Feel free to reach out if you're interested in my work or if you have any projects or ideas you’d like to discuss.
 
 <!---
