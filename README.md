@@ -12,8 +12,8 @@ I'm Alexandre, a software engineer with a completed curriculum at 42 Québec. I 
 ## 📫 Contact
 
 <div align="left" style="display:inline_block"> 
+  <a href="https://x.com/technoSaas" target="_blank"><img src="https://img.shields.io/twitter/follow/:technoSaas" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/alexandre-couture-53741a277/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://x.com/technoSaas" target="_blank"><img src="https://img.shields.io/twitter/follow/:user" target="_blank"></a> 
   <a href = "mailto:alexcouture5@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
