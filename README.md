@@ -29,7 +29,7 @@ Feel free to reach out if you’re interested in working together!
 <div align="left" style="display:inline_block"> 
   <a href="https://x.com/technoSaas" target="_blank"><img src="https://img.shields.io/twitter/follow/:technoSaas" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/alexandre-couture-53741a277/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:alexcouture5@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contact@techno-saas.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ---
@@ -62,7 +62,7 @@ Feel free to reach out if you’re interested in working together!
 
 ### 🎯 Current Focus
 - **Upwork:** Expanding Solutions TechnoSaaS’s portfolio with client collaborations.
-- **Open Source:** Building and sharing tools to empower developers.
+- **Weedlogger:** Finalizing the product to stabilize and prepare for commercialization.
 - **Entrepreneurship:** Delivering innovative SaaS solutions with TechnoSaaS.
 
 <!---
