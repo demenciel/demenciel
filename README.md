@@ -36,6 +36,7 @@ I'm Alexandre, a software engineer with a completed curriculum at 42 Québec. I 
 <img src="https://github.com/demenciel/demenciel/blob/f0177af0193343f94e6ac36f6cba6631b2ececa6/laravel-certification-free-test_16964043991696404399(1).png" width="200">
 <img src="https://github.com/demenciel/demenciel/blob/f0177af0193343f94e6ac36f6cba6631b2ececa6/php_certification_online_free_exam_16164534201616453420.png" width="200">
 </div>
+
 ## 📈 My Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=demenciel&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=demenciel&layout=compact&theme=dark)
