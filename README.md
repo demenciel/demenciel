@@ -10,7 +10,7 @@ As the founder of [Solutions TechnoSaaS](https://techno-saas.com/), I develop cu
 ---
 
 ### What I'm Working On
-- 🚀 **[Solutions TechnoSaaS](https://laravel.techno-saas.com/):** A Laravel-React boilerplate tailored for SaaS startups, designed to streamline development and deployment.
+- 🚀 **[TechnoSaaS](https://laravel.techno-saas.com/):** A Laravel-React boilerplate tailored for SaaS startups, designed to streamline development and deployment.
 - 🌱 **[Imperfect](https://imperfectdating.com/):** A dating app reimagining user interactions, built with Expo and Laravel.
 - 📦 **Weedlogger:** An inventory tracking solution for the cannabis industry.
 - 🛒 **Recette Rabais:** A recipe generation platform leveraging discounts from Quebec grocery stores.
