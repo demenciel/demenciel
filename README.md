@@ -17,6 +17,8 @@ I'm Alexandre, a software engineer with a completed curriculum at 42 Québec. I 
   <a href = "mailto:alexcouture5@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+## 
+
 ## *️⃣ Languages
 ![langs](https://skillicons.dev/icons?i=c,cpp,php,python,typescript,html,css,javascript,java&perline=)
 
@@ -29,6 +31,9 @@ I'm Alexandre, a software engineer with a completed curriculum at 42 Québec. I 
 ## Operational System
 ![langs](https://skillicons.dev/icons?i=linux,apple&perline=)
 
+## Certificates
+![EdChart Badge](https://github.com/demenciel/demenciel/blob/f0177af0193343f94e6ac36f6cba6631b2ececa6/laravel-certification-free-test_16964043991696404399(1).png)
+![EdChart Badge](https://github.com/demenciel/demenciel/blob/f0177af0193343f94e6ac36f6cba6631b2ececa6/php_certification_online_free_exam_16164534201616453420.png)
 
 ## 📈 My Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=demenciel&show_icons=true&theme=dark)
