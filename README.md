@@ -1,15 +1,30 @@
 # 👋 Welcome to Alexandre's GitHub!
 
-🌟 **Innovative Full Stack Developer | CTO & Co-Founder | Aspiring Combat Engineer** 🌟
+🌟 **Innovative Full Stack Developer | CTO & Co-Founder | Entrepreneur** 🌟
 
 ### About Me
-I'm Alexandre, a software engineer with a completed curriculum at 42 Québec. I co-founded and currently serve as the CTO of 'Imperfect,' a unique dating app where we use React Native and Laravel to enhance user interactions. Additionally, I am self-employed and currently developing 'Weedlogger,' a tool that revolutionizes inventory tracking and management using React.js and Laravel.
+Hi, I'm Alexandre, a passionate software engineer and entrepreneur with a completed curriculum at 42 Québec. I specialize in building scalable SaaS solutions, with a proven track record in Laravel and React-based applications.
 
-🪖 Recently, I've embarked on an exciting journey with the Canadian Armed Forces, training to become a Combat Engineer. This role is teaching me a great deal about discipline and enhancing my problem-solving skills in high-pressure environments.
+As the founder of [Solutions TechnoSaaS](https://techno-saas.com/), I develop customizable SaaS solutions that empower businesses to achieve their goals. I'm actively seeking opportunities on **Upwork** to collaborate with clients and help bring their projects to life.
 
 ---
 
-## 📫 Contact
+### What I'm Working On
+- 🚀 **[Solutions TechnoSaaS](https://techno-saas.com/):** A Laravel-React boilerplate tailored for SaaS startups, designed to streamline development and deployment.
+- 🌱 **Imperfect:** A dating app reimagining user interactions, built with Expo and Laravel.
+- 📦 **Weedlogger:** An inventory tracking solution for the cannabis industry.
+- 🛒 **Recette Rabais:** A recipe generation platform leveraging discounts from Quebec grocery stores.
+
+---
+
+### 🌐 Let's Connect!
+I’m looking for **Upwork collaborations** to help businesses with:
+- SaaS development
+- Web application creation
+- Optimization and scalability
+- Custom feature development
+
+Feel free to reach out if you’re interested in working together!
 
 <div align="left" style="display:inline_block"> 
   <a href="https://x.com/technoSaas" target="_blank"><img src="https://img.shields.io/twitter/follow/:technoSaas" target="_blank"></a> 
@@ -17,38 +32,38 @@ I'm Alexandre, a software engineer with a completed curriculum at 42 Québec. I 
   <a href = "mailto:alexcouture5@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-## 
+---
 
-## *️⃣ Languages
-![langs](https://skillicons.dev/icons?i=c,cpp,php,python,typescript,html,css,javascript,java&perline=)
+### 💻 Tech Stack
+#### Languages:
+![langs](https://skillicons.dev/icons?i=php,typescript,javascript,html,css,python,cpp,c&perline=)
 
-## ☁️ Tools
-![langs](https://skillicons.dev/icons?i=git,github,docker,nginx,bash,vim,vscode,cmake,digitalocean&perline=)
+#### Frameworks & Tools:
+![langs](https://skillicons.dev/icons?i=laravel,react,expo,nginx,docker&perline=)
 
-## Data Base
-![langs](https://skillicons.dev/icons?i=mysql&perline=)
+#### Databases:
+![langs](https://skillicons.dev/icons?i=mysql,sqlite&perline=)
 
-## Operational System
-![langs](https://skillicons.dev/icons?i=linux,apple&perline=)
+---
 
-## Certificates
+### 📜 Certifications
 <div style="display:flex;">
-<img src="https://github.com/demenciel/demenciel/blob/f0177af0193343f94e6ac36f6cba6631b2ececa6/laravel-certification-free-test_16964043991696404399(1).png" width="200">
-<img src="https://github.com/demenciel/demenciel/blob/f0177af0193343f94e6ac36f6cba6631b2ececa6/php_certification_online_free_exam_16164534201616453420.png" width="200">
+<img src="https://github.com/demenciel/demenciel/blob/f0177af0193343f94e6ac36f6cba6631b2ececa6/laravel-certification-free-test_16964043991696404399(1).png" width="200" alt="Laravel Certification">
+<img src="https://github.com/demenciel/demenciel/blob/f0177af0193343f94e6ac36f6cba6631b2ececa6/php_certification_online_free_exam_16164534201616453420.png" width="200" alt="PHP Certification">
 </div>
 
-## 📈 My Stats
+---
+
+### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=demenciel&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=demenciel&layout=compact&theme=dark)
 
 ---
 
-### What I'm Up To
-- 💼 **Developing**: Working on 'Imperfect', 'Weedlogger' and 'RecetteRabais', pushing the boundaries of what's possible in software development.
-- 🌱 **Learning**: Deepening my understanding of programming and technology in both civilian and military applications.
-
-### Connect With Me
-Let's connect and explore collaborative opportunities! Feel free to reach out if you're interested in my work or if you have any projects or ideas you’d like to discuss.
+### 🎯 Current Focus
+- **Upwork:** Expanding Solutions TechnoSaaS’s portfolio with client collaborations.
+- **Open Source:** Building and sharing tools to empower developers.
+- **Entrepreneurship:** Delivering innovative SaaS solutions with TechnoSaaS.
 
 <!---
 demenciel/demenciel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
