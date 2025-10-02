@@ -1,19 +1,44 @@
 # 👋 Welcome to Alexandre's GitHub!
 
-🌟 **Innovative Full Stack Developer | CTO & Co-Founder | Entrepreneur** 🌟
+🌟 **Full Stack Developer | SaaS Builder | CAF Combat Engineer | Entrepreneur** 🌟
 
 ### About Me
-Hi, I'm Alexandre, a passionate software engineer and entrepreneur with a completed curriculum at 42 Québec. I specialize in building scalable SaaS solutions, with a proven track record in Laravel and React-based applications.
+Hi, I'm Alexandre — a software engineer, entrepreneur, and Combat Engineer in the Canadian Armed Forces.  
+I balance military service with building SaaS solutions, combining **discipline, execution, and innovation**.  
 
-As the founder of [Solutions TechnoSaaS](https://techno-saas.com/), I develop customizable SaaS solutions that empower businesses to achieve their goals.
+I completed the curriculum at **42 Québec**, and I specialize in **Laravel + React ecosystems**, shipping products from MVP to market.  
+Today my focus is on building, stabilizing, and growing tools that solve **real operational problems** for businesses.  
 
 ---
 
 ### What I'm Working On
-- 🚀 **[JournAI](https://journai.io/):** AI journaling for founders who forget to slow down.
-- 🌱 **[Imperfect](https://imperfectdating.com/):** A dating app reimagining user interactions, built with Expo and Laravel.
-- 📦 **[Weedlogger](https://weedlogger.com/):** An inventory tracking solution for the cannabis industry.
-- 🛒 **[Scan49](https://scan49.ca/):** Scan49 helps discover how food products supports the Canadian economy
+- 📦 **[Weedlogger](https://weedlogger.com/):** An inventory & compliance tracking solution for the cannabis industry.  
+- 🌐 **Wibo:** Turnkey website creation for SMEs, focused on automation, design, and simple site management.  
+- ⚔️ **CAF Career:** Currently serving as a **Combat Engineer (Sapper)**, training towards specialized roles (CSOR Supporter, EOD, Combat Diver).  
+
+---
+
+### Past Projects
+While no longer active, these projects shaped my product-building approach:  
+- **JournAI:** AI journaling platform for founders & creators.  
+- **Imperfect:** A dating app reimagining user interactions.  
+- **Scan49:** Grocery product scanner showing Canadian economic impact.  
+- **TechnoSaaS:** SaaS boilerplates and developer tooling.  
+
+---
+
+### Focus Areas
+- 🖥 **SaaS Development:** Laravel, React, Inertia.js, Tailwind  
+- 🤖 **Automation & AI:** GPT-powered features, workflow optimization  
+- 🪖 **Tactical Mindset:** Military discipline applied to software & business execution  
+- 🌍 **Entrepreneurship:** Bootstrapping, lean execution, client-focused delivery  
+
+---
+
+### Connect
+- 🌐 [Weedlogger](https://weedlogger.com/)  
+- 🌐 [Wibo](https://wibo.ca/)  
+- 💼 [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/alexandre-couture-53741a277/))
 
 ---
 
