@@ -3,7 +3,7 @@
 🌟 **Full Stack Developer | SaaS Builder | CAF Combat Engineer | Entrepreneur** 🌟
 
 ### About Me
-Hi, I'm Alexandre — a software engineer, entrepreneur, and Combat Engineer in the Canadian Armed Forces.  
+Hi, I'm Alexandre, a software engineer, entrepreneur, and Combat Engineer in the Canadian Armed Forces.  
 I balance military service with building SaaS solutions, combining **discipline, execution, and innovation**.  
 
 I completed the curriculum at **42 Québec**, and I specialize in **Laravel + React ecosystems**, shipping products from MVP to market.  
