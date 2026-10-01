@@ -1,74 +1,105 @@
-# 👋 Welcome to Alexandre's GitHub!
+# 👋 Hey, I'm Alexandre
 
-🌟 **Full Stack Developer | SaaS Builder | CAF Combat Engineer | Entrepreneur** 🌟
+**CAF Combat Engineer · Product Builder · Entrepreneur**
 
-### About Me
-Hi, I'm Alexandre, a software engineer, entrepreneur, and Combat Engineer in the Canadian Armed Forces.  
-I balance military service with building SaaS solutions, combining **discipline, execution, and innovation**.  
+I'm a Combat Engineer in the Canadian Armed Forces and an independent builder based in New Brunswick, Canada.
 
-I completed the curriculum at **42 Québec**, and I specialize in **Laravel + React ecosystems**, shipping products from MVP to market.  
-Today my focus is on building, stabilizing, and growing tools that solve **real operational problems** for businesses.  
+I spent years focused on software engineering, including completing the curriculum at **42 Québec**, but these days I care less about being a "developer" and more about **finding useful problems, shipping solutions, and figuring out how to make them profitable**.
 
----
+AI has completely changed how I build. I use it heavily to move from idea → research → product → distribution without needing a large team.
 
-### What I'm Working On
-- 📦 **[Weedlogger](https://weedlogger.com/):** An inventory & compliance tracking solution for the cannabis industry.  
-- 🌐 **Wibo:** Turnkey website creation for SMEs, focused on automation, design, and simple site management.  
-- ⚔️ **CAF Career:** Currently serving as a **Combat Engineer (Sapper)**, training towards specialized roles (CSOR Supporter, EOD, Combat Diver).  
+Most of what I build lives under **[Alexworks](https://alexworks.app/)**.
 
 ---
 
-### Past Projects
-While no longer active, these projects shaped my product-building approach:  
-- **JournAI:** AI journaling platform for founders & creators.  
-- **Imperfect:** A dating app reimagining user interactions.  
-- **Scan49:** Grocery product scanner showing Canadian economic impact.  
-- **TechnoSaaS:** SaaS boilerplates and developer tooling.  
+## 🚀 What I'm Building
+
+### 🔎 Founder Triage
+[triage.alexworks.app](https://triage.alexworks.app/)
+
+A diagnostic tool for founders trying to understand why their product isn't converting, growing, or making money.
+
+### 🇨🇦 Paycheque
+[paycheque.app](https://pay.alexworks.app/)
+
+Free Canadian payroll, tax, overtime, bonus, and salary calculators.
+
+### 🖨 PrintFileCheck
+[printfilecheck.com](https://print.alexworks.app/)
+
+Browser-based tools for checking DPI, PDF dimensions, and print readiness.
+
+### 👶 BabyLog
+
+A lightweight newborn tracking app built after becoming a dad and wanting something simple for feeds, sleep, and daily tracking.
+
+### 🏃 FreeRun
+[run.alexworks.app](https://run.alexworks.app/)
+
+A running-route generator built around distance, pace, heart-rate targets, elevation, and GPX export.
+
+### 🧪 Alexworks
+
+My umbrella for small internet businesses, experiments, tools, and AI-assisted products.
+
+The goal isn't to build endlessly.
+
+It's to **find problems worth solving, launch quickly, measure reality, and keep the things that work.**
 
 ---
 
-### Focus Areas
-- 🖥 **SaaS Development:** Laravel, React, Inertia.js, Tailwind  
-- 🤖 **Automation & AI:** GPT-powered features, workflow optimization  
-- 🪖 **Tactical Mindset:** Military discipline applied to software & business execution  
-- 🌍 **Entrepreneurship:** Bootstrapping, lean execution, client-focused delivery  
+## 🪖 Outside of Tech
+
+I serve full-time as a **Combat Engineer in the Canadian Armed Forces**.
+
+Military life has changed how I approach building businesses:
+
+- execution over endless planning
+- simple systems over unnecessary complexity
+- adaptability when the original plan stops working
+- getting useful things into people's hands
+
+I'm also a new dad, which has made time and leverage considerably more important than they used to be.
 
 ---
 
-### Connect
-- 🌐 [Weedlogger](https://weedlogger.com/)  
-- 🌐 [Wibo](https://wibo.ca/)  
-- 💼 [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/alexandre-couture-53741a277/))
+## 🛠 How I Build
+
+I still write code, but I'm increasingly focused on the whole product:
+
+**Research → Validation → Product → Distribution → Revenue**
+
+Typical stack:
+
+- **Astro / TypeScript**
+- **Laravel / PHP**
+- **React**
+- **Cloudflare Workers**
+- **AI coding agents**
+- **Stripe**
+- **APIs & automation**
+
+I strongly prefer boring infrastructure, low operating costs, and products that can run without constant babysitting.
 
 ---
 
-### 💻 Tech Stack
-#### Languages:
-![langs](https://skillicons.dev/icons?i=php,typescript,javascript,html,css,python,cpp,c&perline=)
+## 🎯 Current Focus
 
-#### Frameworks & Tools:
-![langs](https://skillicons.dev/icons?i=laravel,react,expo,nginx,docker&perline=)
+Right now I'm interested in:
 
-#### Databases:
-![langs](https://skillicons.dev/icons?i=mysql,sqlite&perline=)
-
----
-
-### 📜 Certifications
-<div style="display:flex;">
-<img src="https://github.com/demenciel/demenciel/blob/f0177af0193343f94e6ac36f6cba6631b2ececa6/laravel-certification-free-test_16964043991696404399(1).png" width="200" alt="Laravel Certification">
-<img src="https://github.com/demenciel/demenciel/blob/f0177af0193343f94e6ac36f6cba6631b2ececa6/php_certification_online_free_exam_16164534201616453420.png" width="200" alt="PHP Certification">
-</div>
+- B2B micro-SaaS
+- tools for small businesses
+- APIs, MCPs, and platform apps
+- AI-assisted product development
+- productized workflows
+- distribution through ecosystems and marketplaces
+- bootstrapped products that can reach meaningful revenue without a huge audience
 
 ---
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=demenciel&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=demenciel&layout=compact&theme=dark)
+## 📍 Find Me
 
----
+🌐 [alexworks.app](https://alexworks.app/)  
+𝕏 [@technoSaaS](https://x.com/technoSaaS)
 
-<!---
-demenciel/demenciel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Building small internet products with AI — and seeing which ones deserve to become businesses.
